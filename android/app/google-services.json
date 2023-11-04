@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255562847700",
+    "project_id": "flutter-projects-d98be",
+    "storage_bucket": "flutter-projects-d98be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255562847700:android:6115b0f7469840f7d97241",
+        "android_client_info": {
+          "package_name": "com.darwinrodriguez.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHzyb0KakRCb3f5H3WODjc3rb0Kmn5tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
